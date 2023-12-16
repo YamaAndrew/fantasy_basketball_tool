@@ -19,3 +19,12 @@ NBA player that was scraped in web_scraping.py. Each player object holds their r
 
 The Tier List GUI handles each tier's functionality one at a time. It is here where many of this feature's front end aspects are handled, including: 
 exiting the tier list page, organizing/displaying tier sections/subsectins, and selecting/displaying random featured players' images. 
+
+## To Run the App:
+
+1. Download all files from this fantasy_basketball_tool repository.
+2. Use *pip install _______* with the following: bs4, nba_api, and pyqt5.
+
+        pip install bs4
+
+3. Run main.py in an IDE.
